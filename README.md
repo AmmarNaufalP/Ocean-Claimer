@@ -2,10 +2,11 @@
 Auto Multi Ocean Claimer That Support Unlimited Account
 ## Feature 
 * Auto Claim When Ready
-* Bulk Send Sui
+* Bulk Send Sui 
 * Convert Phrase to Address
-* Auto Send Ocean (ON/OFF)
-* Auto Send Gas Fee (ON/OFF)
+* Auto Send Ocean to Main Wallet (ON/OFF)
+* Auto Send Gas Fee to Bot Wallet (ON/OFF)
+  
 ![Alt text](preview.png)
 # How To Buy?
 Contact me on Telegram https://t.me/AmmarNPS
