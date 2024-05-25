@@ -1,1 +1,1 @@
-// Contact @AmmarNPS on Telegram for purchase the script
+// Contact @AmmarNPS on Telegram for purchase the script 
