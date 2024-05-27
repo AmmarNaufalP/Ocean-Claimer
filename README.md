@@ -6,6 +6,8 @@ Auto Multi Ocean Claimer That Support Unlimited Account
 * Convert Phrase to Address
 * Auto Send Ocean to Main Wallet (ON/OFF)
 * Auto Send Gas Fee to Bot Wallet (ON/OFF)
+* Auto Upgrade Mesh custom lvl (ON/OFF)
+* Auto Upgeade Boat custom lvl (ON/OFF)
   
 ![Alt text](preview.png)
 # How To Buy?
